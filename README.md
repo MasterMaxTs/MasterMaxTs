@@ -1,9 +1,9 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-My name is Maxim Tsurkanov.
+My name is <b>Maxim Tsurkanov</b>.
 
-I'am Java Developer
-- 🔭 I’m currently working on Hunt4.pro project
+I'am <b>Java Developer</b>.
+- 🔭 I’m currently working on <b>Hunt4.pro</b> project
 
 ___
 
@@ -46,7 +46,7 @@ ___
 ### My GitHub Stats
 <br/>
 
-<a href="http://www.github.com/MasterMaxTs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterMaxTs&stroke=ffffff&background=fffaed&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/MasterMaxTs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterMaxTs&stroke=000&background=fffaed&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 
 ___
