@@ -46,7 +46,7 @@ ___
 ### My GitHub Stats
 <br/>
 
-<a href="http://www.github.com/MasterMaxTs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterMaxTs&stroke=#A9AAAA&background=fffaed&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" /></a>
+<a href="http://www.github.com/MasterMaxTs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterMaxTs&stroke=#a9aaaa&background=fffaed&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" /></a>
 
 
 ___
