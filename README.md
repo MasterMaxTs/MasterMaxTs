@@ -51,6 +51,7 @@ ___
 <br/><br/>
 
 ___
+
 ### My GitHub Stats
 <br/>
 
@@ -58,6 +59,7 @@ ___
 <br><br/>
 
 ___
+
 ### My top repositories 
 <br/>
 
@@ -74,6 +76,7 @@ ___
 <br/><br/>
 
 ___
+
 ### My contacts
 <br/>
 <table style="border: none; text-align: left">
