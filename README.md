@@ -63,16 +63,16 @@ ___
 ### My top repositories 
 <br/>
 
-<a href="https://github.com/MasterMaxTs/project_rest-url_shortcut" ><img width="412px" float="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_rest-url_shortcut&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>&emsp;
-<a href="https://github.com/MasterMaxTs/project_accidents" ><img width="412px" float="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_accidents&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>
+<a href="https://github.com/MasterMaxTs/project_rest-url_shortcut" ><img width="413px" float="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_rest-url_shortcut&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>&emsp;
+<a href="https://github.com/MasterMaxTs/project_accidents" ><img width="413px" float="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_accidents&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>
 <br/>
 
-<a href="https://github.com/MasterMaxTs/project_autoshop" ><img width="400px" float="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_autoshop&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>&emsp;
-<a href="https://github.com/MasterMaxTs/project_ToDoList" ><img width="400px" float="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_ToDoList&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>
+<a href="https://github.com/MasterMaxTs/project_autoshop" ><img width="413px" float="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_autoshop&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>&emsp;
+<a href="https://github.com/MasterMaxTs/project_ToDoList" ><img width="413px" float="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_ToDoList&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>
 <br/>
 
-<a href="https://github.com/MasterMaxTs/project_console-tracker" ><img width="495px" float="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_console-tracker&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>&emsp;
-<a href="https://github.com/MasterMaxTs/project_grabber" ><img width="495px" float="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_grabber&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>
+<a href="https://github.com/MasterMaxTs/project_console-tracker" ><img width="413px" float="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_console-tracker&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>&emsp;
+<a href="https://github.com/MasterMaxTs/project_grabber" ><img width="413px" float="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_grabber&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>
 <br/><br/>
 
 ___
