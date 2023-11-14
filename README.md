@@ -1,14 +1,18 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-My name is <b>Maxim Tsurkanov</b>.
+My name is <b>Maxim Tsurkanov</b>.<br><br>
 
-I'am <b>Java Developer</b>.
-- 🔭 I’m currently working on <b>Hunt4.pro</b> project
+### About me :point_down:
+- I'm 37 old java developer from Krasnodar :computer:
+- I studied computer science at university [IRECS](https://rtf.sfedu.ru/) :office:
+- I learn Java at [Job4j](https://job4j.ru) :coffee:
+- My Java expirience is 3 years :hourglass:
+- I’m currently working on <b>Hunt4.pro</b> project 🔭 
 <br/>
 
 ___
 
-###  My skills
+###  My skills :point_down:
 <br/>
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Oracle&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
@@ -52,7 +56,7 @@ ___
 
 ___
 
-### My GitHub Stats
+### My GitHub Stats :point_down:
 <br/>
 
 <a href="http://www.github.com/MasterMaxTs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterMaxTs&stroke=767676&background=fffaed&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" /></a>
@@ -60,7 +64,7 @@ ___
 
 ___
 
-### My top repositories 
+### My top repositories :point_down:
 <br/>
 
 <a href="https://github.com/MasterMaxTs/project_rest-url_shortcut" ><img width="413px" float="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterMaxTs&repo=project_rest-url_shortcut&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=fffaed&hide_border=false&locale=en" /></a>&emsp;
@@ -80,7 +84,7 @@ ___
 
 ___
 
-### My contacts
+### My contacts :point_down:
 <br/>
 <table style="border: none; text-align: left">
     <tbody>
