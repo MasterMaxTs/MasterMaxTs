@@ -35,17 +35,18 @@ ___
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=Apache-Maven&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Travis-informational?style=flat&logo=Travis&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Codecov-informational?style=flat&logo=Codecov&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-DockerHub-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-PgAdmin-informational?style=flat&logo=Postgresql&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-SQLDeveloper-informational?style=flat&logo=Oracle&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Curl-informational?style=flat&logo=Curl&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-LinuxTerminal-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=VirtualBox&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
