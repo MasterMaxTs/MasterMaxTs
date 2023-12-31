@@ -32,11 +32,13 @@ ___
 
 
 ![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=Postgresql&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 
 
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=Apache-Maven&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=Apache-Kafka&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Travis-informational?style=flat&logo=Travis&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
@@ -46,6 +48,7 @@ ___
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-DockerHub-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-PgAdmin-informational?style=flat&logo=Postgresql&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/Tools-Compass-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-SQLDeveloper-informational?style=flat&logo=Oracle&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Curl-informational?style=flat&logo=Curl&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-LinuxTerminal-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)&nbsp;&nbsp;&nbsp;
