@@ -3,7 +3,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 My name is <b>Maxim Tsurkanov</b>.<br><br>
 
 ### About me :point_down:
-- I'm 37 old java developer from Krasnodar :computer:
+- I'm 38 old java developer from Krasnodar :computer:
 - I studied computer science at university [IRECS](https://rtf.sfedu.ru/) :office:
 - I learn Java at [Job4j](https://job4j.ru) :coffee:
 - My Java expirience is 3 years :hourglass:
